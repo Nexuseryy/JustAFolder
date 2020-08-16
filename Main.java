@@ -11,7 +11,7 @@ public class Main {
         myString = myString + " and this is more.";
         System.out.println("My string is equal to: " + myString);
 
-        
+        System.out.println("NOTHING SERIOUS");
     }
 
 }
